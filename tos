@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service for LaVivaBot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        strong {
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service for LaVivaBot</h1>
+    <p>
+        By using LaVivaBot, you agree to comply with these Terms of Service. If you do not agree, please do not use the bot.
+    </p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>
+        These Terms of Service govern your use of LaVivaBot. By accessing or using the bot, you accept these terms.
+    </p>
+
+    <h2>2. User Conduct</h2>
+    <p>
+        You agree not to use LaVivaBot for any illegal or unauthorized purposes. The bot owner reserves the right to blacklist any user 
+        who engages in behavior deemed inappropriate or harmful to the bot's functionality or community.
+    </p>
+
+    <h2>3. Donations</h2>
+    <p>
+        LaVivaBot accepts donations through <strong><a href="https://www.buymeacoffee.com/lavivabot">Buy Me a Coffee</a></strong>. 
+        Donations are voluntary and help support the ongoing development of the bot.
+    </p>
+
+    <h2>4. Changes to Terms</h2>
+    <p>
+        The bot owner reserves the right to modify these Terms of Service at any time. Users will be notified of any significant changes.
+    </p>
+
+    <h2>5. Contact Information</h2>
+    <p>
+        If you have any questions about these Terms of Service, please contact the bot owner via Discord at <strong>'maracujacraft'</strong>.
+    </p>
+
+    <p>Last updated: [Insert Date]</p>
+</body>
+</html>
